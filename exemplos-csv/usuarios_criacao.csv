@@ -1,0 +1,3 @@
+Nome,Sobrenome,SamAccountName,UPN,Email,Departamento,Cargo,EmployeeID,OU
+Joao,Silva,joao.silva,joao.silva@empresa.local,joao.silva@empresa.com.br,TI,Analista de Infraestrutura,123456,"OU=Usuarios,DC=empresa,DC=local"
+Maria,Souza,maria.souza,maria.souza@empresa.local,maria.souza@empresa.com.br,RH,Analista de RH,654321,"OU=Usuarios,DC=empresa,DC=local"

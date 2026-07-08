@@ -1,0 +1,5 @@
+Host,Porta
+dc01.empresa.local,389
+dc01.empresa.local,636
+servidor-arquivos.empresa.local,445
+sistema.empresa.local,443

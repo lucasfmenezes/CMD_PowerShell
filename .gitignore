@@ -1,0 +1,50 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Ambiente
+.env
+.env.*
+!.env.example
+
+# PowerShell
+*.ps1xml
+*.pssc
+*.psrc
+
+# Backups
+*.bak
+*.backup
+*.tar
+*.tar.gz
+*.zip
+
+# Dados sensíveis ou exports reais
+exports/
+relatorios/
+dados-reais/
+secrets/
+credentials/
+*.key
+*.pem
+*.pfx
+*.p12
+
+# CSVs reais gerados localmente
+*_real.csv
+*_producao.csv
+*_prod.csv
