@@ -68,6 +68,4 @@ Mostra quem está segurando as funções principais da floresta.
 Get-ADForest | Select-Object DomainNamingMaster, SchemaMaster
 ~~~
 
-## Dica rápida
 
-Sempre valide o resultado de um comando de consulta antes de executar alterações em massa.
